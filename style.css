@@ -33,6 +33,12 @@ body {
     color: #e0e0e0;
 }
 
+h3 {
+    color: #ddd;
+    margin-top: 1rem;
+    font-weight: 600;
+}
+
 .img-fluid {
     max-height: 200px; /* Set a fixed height for the images */
     object-fit: cover; /* Ensure images maintain aspect ratio */
