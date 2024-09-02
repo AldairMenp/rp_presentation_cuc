@@ -6,8 +6,9 @@ body {
 }
 
 .overlay {
-    background-color: rgba(153, 151, 151, 0.7); /* Dark overlay with opacity */
+    background-color: rgba(246, 246, 246, 0.507); /* Dark overlay with opacity */
     position: absolute;
+    opacity: 4;
     top: 0;
     left: 0;
     width: 100%;
