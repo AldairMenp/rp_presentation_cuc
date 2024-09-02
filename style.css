@@ -1,0 +1,6 @@
+body {
+    background: url('https://emisoraatlantico.com.co/wp-content/uploads/2020/05/CUC.jpg') no-repeat center center fixed;
+    background-size: cover; /* Make the background image cover the entire page */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #fff;
+}
