@@ -6,7 +6,7 @@ body {
 }
 
 .overlay {
-    background-color: rgba(0, 0, 0, 0.7); /* Dark overlay with opacity */
+    background-color: rgba(153, 151, 151, 0.7); /* Dark overlay with opacity */
     position: absolute;
     top: 0;
     left: 0;
@@ -43,4 +43,12 @@ h3 {
     max-height: 200px; /* Set a fixed height for the images */
     object-fit: cover; /* Ensure images maintain aspect ratio */
     border-radius: 10px; /* Rounded corners for images */
+}
+
+.hobby-icon, .series-icon {
+    margin-right: 8px;
+}
+
+.card-content {
+    padding: 15px;
 }
